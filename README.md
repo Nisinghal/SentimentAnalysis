@@ -1,6 +1,5 @@
 RMSSD Assignment: 
 # Sentiment Analysis for Fake News
-19th November 2019
 
 ## OVERVIEW
 **Training:** Trained a Naive Bayes classifier using any 800 news headlines from the dataset. 
